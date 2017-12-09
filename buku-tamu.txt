@@ -34,9 +34,9 @@ Pesan: Asik seru fun interaktif, kalo bisa ditambah lagi fitur-fiturnya entah ap
 Entry: 3
 CodeSaya: syamcode
 Github: syamcode
-Nama: -
-Website: -
-Pesan: -
+Nama: Reza Sya'bana S
+Website: http://www.srikandi.com/
+Pesan: sughoi
 
 Entry: 4
 CodeSaya: anefirman
